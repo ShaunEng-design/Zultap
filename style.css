@@ -472,9 +472,8 @@ footer {
         margin-left: -10px;
         margin-top: -80px;
     }
-}
 
-.service1 {
+    .service1 {
     width: 70%;
     height: 750px;
 }
@@ -493,3 +492,6 @@ footer {
     width: 70%;
     height: 750px;
 }
+}
+
+
