@@ -463,15 +463,20 @@ footer {
     
     .welcome::before {
         background-position-x: 80%;
+        height: 300px;
+    }
+  
+    .welcome {
+        height: 200px;
     }
 
     .welcome p {
-        top: 60px;
+        top: 20px;
         left: 120px;
     }
 
     .container::before {
-        margin-top: 150px;
+        margin-top: 100px;
     }
 
     .container {
@@ -484,7 +489,7 @@ footer {
     }
 
     .container p {
-        top: 200px;
+        top: 150px;
         left: 100px;
         border-left: 3px solid red;
         padding: 10px;
